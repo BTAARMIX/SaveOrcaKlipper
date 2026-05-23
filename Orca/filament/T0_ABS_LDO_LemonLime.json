@@ -1,0 +1,18 @@
+{
+    "default_filament_colour": [
+        "#C0FF1A"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_settings_id": [
+        "T0_ABS_LDO_LemonLime"
+    ],
+    "from": "User",
+    "inherits": "Tx_ABS_LDO",
+    "name": "T0_ABS_LDO_LemonLime",
+    "version": "0.0.0.0"
+}

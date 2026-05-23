@@ -26,11 +26,11 @@
     "close_fan_the_first_x_layers": [
         "2"
     ],
-    "compatible_printers": [
-        "StealthChanger 2Tool 0.4 nozzle"
-    ],
+    "compatible_printers": [],
     "compatible_printers_condition": "",
-    "compatible_prints": [],
+    "compatible_prints": [
+        "PLA_General_0.2"
+    ],
     "compatible_prints_condition": "",
     "complete_print_exhaust_fan_speed": [
         "70"
