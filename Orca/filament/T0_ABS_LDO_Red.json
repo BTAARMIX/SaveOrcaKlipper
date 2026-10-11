@@ -1,0 +1,15 @@
+{
+    "default_filament_colour": [
+        "#DD3737"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "T0_ABS_LDO_Red"
+    ],
+    "from": "User",
+    "inherits": "Tx_ABS_LDO",
+    "name": "T0_ABS_LDO_Red",
+    "version": "0.0.0.0"
+}

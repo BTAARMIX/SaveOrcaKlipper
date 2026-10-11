@@ -1,0 +1,30 @@
+{
+    "default_filament_colour": [
+        "#808080"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.928"
+    ],
+    "filament_settings_id": [
+        "T0_ABS_ESUN_Gris"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Tx_ABS_LDO",
+    "name": "T0_ABS_ESUN_Gris",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "265"
+    ],
+    "version": "0.0.0.0"
+}

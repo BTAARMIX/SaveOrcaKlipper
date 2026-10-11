@@ -60,7 +60,7 @@
         "Direct Drive Standard",
         "Direct Drive Standard"
     ],
-    "fan_kickstart": "0.1",
+    "fan_kickstart": "0.2",
     "fan_speedup_overhangs": "1",
     "fan_speedup_time": "3",
     "file_start_gcode": "",
